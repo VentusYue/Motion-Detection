@@ -1,4 +1,5 @@
 # Video Detection
+Some Papers I found that are related to motion detection.
 ## CVPR2018
 * **Towards High Performance Video Object Detection**
   * Paper: https://arxiv.org/abs/1711.11577
@@ -7,7 +8,7 @@
   * Code: https://github.com/hellock/scale-time-lattice
 ## ECCV2018
 
-**Video Object Detection with an Aligned Spatial-Temporal Memory**
+* **Video Object Detection with an Aligned Spatial-Temporal Memory**
   * Paper: https://arxiv.org/pdf/1712.06317.pdf
 
 
