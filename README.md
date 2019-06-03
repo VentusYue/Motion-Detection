@@ -1,5 +1,5 @@
 # Video Detection
-### CVPR2018
+## CVPR2018
 * **Towards High Performance Video Object Detection**
   * Paper: https://arxiv.org/abs/1711.11577
 * **Optimizing Video Object Detection vis a Scale-Time Lattice**
@@ -22,14 +22,14 @@
 
 
 
-### ICCV2017
+## ICCV2017
 * **Flow-Guided Feature Aggregation for Video Object Detection**
   * Paper: https://arxiv.org/abs/1703.10025
   * Code: https://github.com/msracver/Flow-Guided-Feature-Aggregation
 * **Detect to Track and Track to Detect**
   * Paper: http://www.robots.ox.ac.uk/~vgg/publications/2017/Feichtenhofer17/feichtenhofer17.pdf
 
-### CVPR2017
-* **Deep Feature Flow for Video Recognition** 
+## CVPR2017
+* **Deep Feature Flow for Video Recognition**
   * Paper: https://arxiv.org/abs/1611.07715
   * Code: https://github.com/msracver/Deep-Feature-Flow
